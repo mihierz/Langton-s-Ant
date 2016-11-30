@@ -1,2 +1,2 @@
 # Langton-s-Ant
-Ant lives in grid at (x, y)
+https://en.wikipedia.org/wiki/Langton's_ant
